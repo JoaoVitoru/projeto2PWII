@@ -15,16 +15,12 @@
       "RelativeMoniker": "D:0:0:{FE71A57E-4B20-4E4D-B267-76B0E26DF749}|Projeto2\\Projeto2.csproj|solutionrelative:projeto2\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE71A57E-4B20-4E4D-B267-76B0E26DF749}|Projeto2\\Projeto2.csproj|c:\\users\\3mtec\\desktop\\projeto2pwii\\projeto2\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE71A57E-4B20-4E4D-B267-76B0E26DF749}|Projeto2\\Projeto2.csproj|solutionrelative:projeto2\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE71A57E-4B20-4E4D-B267-76B0E26DF749}|Projeto2\\Projeto2.csproj|c:\\users\\3mtec\\desktop\\projeto2pwii\\projeto2\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE71A57E-4B20-4E4D-B267-76B0E26DF749}|Projeto2\\Projeto2.csproj|solutionrelative:projeto2\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE71A57E-4B20-4E4D-B267-76B0E26DF749}|Projeto2\\Projeto2.csproj|c:\\users\\3mtec\\desktop\\projeto2pwii\\projeto2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FE71A57E-4B20-4E4D-B267-76B0E26DF749}|Projeto2\\Projeto2.csproj|solutionrelative:projeto2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FE71A57E-4B20-4E4D-B267-76B0E26DF749}|Projeto2\\Projeto2.csproj|c:\\users\\3mtec\\desktop\\projeto2pwii\\projeto2\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE71A57E-4B20-4E4D-B267-76B0E26DF749}|Projeto2\\Projeto2.csproj|solutionrelative:projeto2\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +40,7 @@
               "RelativeDocumentMoniker": "Projeto2\\Repository\\LivroRepository.cs",
               "ToolTip": "C:\\Users\\3mtec\\Desktop\\projeto2PWII\\Projeto2\\Repository\\LivroRepository.cs",
               "RelativeToolTip": "Projeto2\\Repository\\LivroRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAgAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAA5wEcAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T11:59:57.084Z",
               "EditorCaption": ""
@@ -57,9 +53,22 @@
               "RelativeDocumentMoniker": "Projeto2\\Repository\\Contract\\ILivroRepository.cs",
               "ToolTip": "C:\\Users\\3mtec\\Desktop\\projeto2PWII\\Projeto2\\Repository\\Contract\\ILivroRepository.cs",
               "RelativeToolTip": "Projeto2\\Repository\\Contract\\ILivroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T11:54:20.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\projeto2PWII\\Projeto2\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "Projeto2\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\projeto2PWII\\Projeto2\\Models\\Livro.cs",
+              "RelativeToolTip": "Projeto2\\Models\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:22:17.391Z",
               "EditorCaption": ""
             },
             {
@@ -77,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Items.cs",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\projeto2PWII\\Projeto2\\Models\\Items.cs",
               "RelativeDocumentMoniker": "Projeto2\\Models\\Items.cs",
@@ -87,31 +96,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T12:28:53.352Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Livro.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\projeto2PWII\\Projeto2\\Models\\Livro.cs",
-              "RelativeDocumentMoniker": "Projeto2\\Models\\Livro.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\projeto2PWII\\Projeto2\\Models\\Livro.cs",
-              "RelativeToolTip": "Projeto2\\Models\\Livro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T12:22:17.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\projeto2PWII\\Projeto2\\appsettings.json",
-              "RelativeDocumentMoniker": "Projeto2\\appsettings.json",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\projeto2PWII\\Projeto2\\appsettings.json",
-              "RelativeToolTip": "Projeto2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-27T12:16:05.205Z"
             }
           ]
         }
